@@ -1,0 +1,1 @@
+These file contains script for difeferents types of permissions on linux
